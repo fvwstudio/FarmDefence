@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FarmDefence.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\UE4 Tutorials\FarmDefence\FarmDefence\Intermediate\Build\Win64\UE4Editor\Development\FarmDefence\FarmDefence.cpp.obj"
+"F:\UE4 Tutorials\FarmDefence\FarmDefence\Intermediate\Build\Win64\UE4Editor\Development\FarmDefence\FDGameInstance.cpp.obj"
+"F:\UE4 Tutorials\FarmDefence\FarmDefence\Intermediate\Build\Win64\UE4Editor\Development\FarmDefence\FarmDefence.init.gen.cpp.obj"
+"F:\UE4 Tutorials\FarmDefence\FarmDefence\Intermediate\Build\Win64\UE4Editor\Development\FarmDefence\FDGameInstance.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\FarmDefence\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"F:\UE4 Tutorials\FarmDefence\FarmDefence\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FarmDefence.lib"

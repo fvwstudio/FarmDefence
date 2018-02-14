@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\FarmDefence.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{F501BDD0-3AE7-4960-9ECB-E611184F764B}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\FarmDefence.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\FarmDefenceEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{D1CEDF0D-4871-46A3-B324-A7C401611EE9}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\FarmDefence">
+			<UniqueIdentifier>{51437405-31E4-4B5A-9C44-87D88E5DCC04}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\FarmDefence\FarmDefence.Build.cs">
+			<Filter>Source\FarmDefence</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\FarmDefence\FarmDefence.cpp">
+			<Filter>Source\FarmDefence</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FarmDefence\FarmDefence.h">
+			<Filter>Source\FarmDefence</Filter>
+		</ClInclude >
+		<Filter Include="Source\FarmDefence\Private">
+			<UniqueIdentifier>{35CF55E2-3D30-49AF-8B8C-DED9FAEC48BA}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\FarmDefence\Private\FDGameInstance.cpp">
+			<Filter>Source\FarmDefence\Private</Filter>
+		</ClCompile >
+		<Filter Include="Source\FarmDefence\Public">
+			<UniqueIdentifier>{07174F69-0CC7-4F33-BF9C-D76BB88F0B1D}</UniqueIdentifier>
+		</Filter>
+		<ClInclude Include="..\..\Source\FarmDefence\Public\FDGameInstance.h">
+			<Filter>Source\FarmDefence\Public</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
