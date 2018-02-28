@@ -84,7 +84,7 @@
 		</ProjectConfiguration>
 	</ItemGroup>
 	<PropertyGroup Label="Globals">
-		<ProjectGuid>{281296D1-C3DF-4F12-AF01-1AAFBD76B353}</ProjectGuid>
+		<ProjectGuid>{D8A72C61-AD78-4225-92C6-2F2F6210132B}</ProjectGuid>
 		<Keyword>MakeFileProj</Keyword>
 		<RootNamespace>FarmDefence</RootNamespace>
 		<PlatformToolset>v141</PlatformToolset>
